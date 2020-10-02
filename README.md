@@ -487,6 +487,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
  - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
  - [C++ For Programmers | Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
+ - [C++ STL | Topcoder Part1](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/)
+ - [C++ STL | Topcoder Part2](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-2/)
+ - [C++ STL](https://www.geeksforgeeks.org/cpp-stl-tutorial/)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
@@ -705,7 +708,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 # 3. Student Benefits and Programs :fire:
 
 ## Campus Ambassador Programs :v:
-1. [Microsoft Student Partner](https://studentpartners.microsoft.com/en-us) - Application Deadline - **August**
+1. [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/) - Application Deadline - **November 2020** - Result Announcement - **January 2021**
 2. [GitHub Campus Experts](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
 4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
